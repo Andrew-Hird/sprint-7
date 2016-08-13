@@ -27,7 +27,6 @@ console.log(isEven(75))
 console.log(isEven(-1))
 
 //Bean Counting
-
 //#1
 function countBs(str) {
   var count = 0
@@ -41,7 +40,6 @@ function countBs(str) {
 console.log(countBs("BBBBBBC"))
 
 //#2
-// Your code here.
 function countChar (str, char) {
   var count = 0
   for(var i = 0; i < str.length; i++) {
